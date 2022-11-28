@@ -1,0 +1,40 @@
+form{
+    padding: 1%;
+    margin: 1%;
+}
+
+::-webkit-textfield-decoration-container{
+    width: 100%;
+}
+
+TextField{
+    width: 100%;   
+}
+.grid1 , .grid2, #grid3{
+    padding: 10% 5%;
+    
+}
+
+.gr{ 
+    margin-left:-5%;
+}
+
+.text3{
+   padding-left: 5%;
+   
+}
+
+.serv{
+    text-align: center;
+    background-color: #5651e5;
+    color: white;
+}
+
+.btn{
+text-align: center;
+}
+
+.predict{
+    background-color: black;
+    color: black;
+}

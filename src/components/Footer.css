@@ -1,0 +1,32 @@
+.img1{
+padding-top: 2%;
+}
+
+
+.footertitle{
+    padding: 5% 10% 2%;
+    font-weight: 700;
+}
+
+.footerdesc{
+    
+    padding-left: 70%;
+    padding-top:5%;
+    color:gray;
+}
+.footer{
+    display:grid;
+    grid-template-columns: repeat(2,2fr);
+    background-color:whitesmoke;
+    margin-top: 5%;
+    
+}
+
+
+@media screen and (max-width:940px) {
+       
+    .footerdesc{
+        font-size:medium;
+        margin-left: -30%;
+    }
+}

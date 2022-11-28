@@ -1,0 +1,21 @@
+.services-submenu{
+    position: absolute;
+    list-style: none;
+    text-align: start;
+}
+
+.services-submenu li{
+    cursor: pointer;
+    background-color: #5651e5;
+
+}
+.services-submenu.clicked{
+    display: none;
+
+}
+
+.submenu-item{
+ display: block;
+ text-decoration: none;
+ color:white;
+}
